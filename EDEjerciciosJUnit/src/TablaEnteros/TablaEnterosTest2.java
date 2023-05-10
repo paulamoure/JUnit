@@ -66,6 +66,8 @@ class TablaEnterosTest2 {
 	void testMayorTabla2() {
 		assertEquals(50, tabla.mayorTabla());
 	}
+	
+	
 
 	@Test
 	void testPosicionTabla1() {
